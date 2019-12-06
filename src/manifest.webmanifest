@@ -1,7 +1,7 @@
 {
-  "name": "app",
-  "short_name": "app",
-  "theme_color": "#1976d2",
+  "name": "Notify",
+  "short_name": "Notify",
+  "theme_color": "#159267",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "/",
